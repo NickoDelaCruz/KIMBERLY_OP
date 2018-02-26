@@ -1,3 +1,6 @@
+# Don't know what that is used for exactly.
+# ENV['RACK_ENV'] = 'test'
+
 require("rspec")
 require("pg")
 require("sinatra/activerecord")
